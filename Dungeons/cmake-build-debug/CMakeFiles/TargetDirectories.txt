@@ -1,0 +1,3 @@
+C:/Users/e/CLionProjects/Dungeons/cmake-build-debug/CMakeFiles/Dungeons.dir
+C:/Users/e/CLionProjects/Dungeons/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/e/CLionProjects/Dungeons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
